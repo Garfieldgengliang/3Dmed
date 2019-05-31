@@ -1,0 +1,11 @@
+# ---- CC database information:
+
+CC_DATABASE_INFO:
+    host: 10.10.172.41
+    port: 3306
+    user: lgl
+    password: lgl3d_CTMS
+    database: ctmsdb_dev_1
+    charset: utf8
+
+
